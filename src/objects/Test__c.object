@@ -59,7 +59,7 @@
         <label>Type</label>
         <picklist>
             <picklistValues>
-                <fullName>Cool12345</fullName>
+                <fullName>Cool12345100</fullName>
                 <default>false</default>
             </picklistValues>
             <picklistValues>
